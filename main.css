@@ -1,0 +1,28 @@
+
+.header {
+    text-align: center;
+}
+.product {
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.product-reveal {
+    background-color: #134180;
+    color: #fff;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.content {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.product-title {
+    display: block;
+}
+
+.product-price {
+    display: block;
+}
